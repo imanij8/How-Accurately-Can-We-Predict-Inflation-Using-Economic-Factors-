@@ -1,4 +1,4 @@
-# How Accurately Can We Predict Inflation Using Economic Factors?
+# How Accurately Can We Predict Inflation Using Economic Factors?:
 
 This project aims to predict inflation rates by analyzing key economic factors such as GDP changes, unemployment rates, consumer sentiment, and federal funds rates. We used economic datasets from the Federal Reserve Economic Data (FRED) to model inflation and uncover relationships between various economic indicators.
 
